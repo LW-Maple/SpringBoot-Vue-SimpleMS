@@ -1,4 +1,4 @@
-## Spring_Boot+Vue实现的简单管理系统
+## SpringBoot+Vue实现的简单管理系统
 
 练手的简单项目，用于熟悉SpringBoot+Vue前后端分离项目
 
